@@ -105,4 +105,3 @@ app.listen(port, () => {
         console.log(`Listent on port ${port}`);
         initPuppeteer();
     }
-)
